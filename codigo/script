@@ -1,3 +1,5 @@
+# Codigo de Ejemplo obtenido de Gemini, para fines de la tarea..
+
 def comparar_secuencias(seq_original, seq_final):
     # Verificamos que tengan la misma longitud para comparar posición por posición
     if len(seq_original) != len(seq_final):
