@@ -7,8 +7,8 @@ La sequencias obtenidas de cada pase se compararan con la secuencia parental y c
 ## Estructura del Repositorio
 Para facilitar la navegación y la reproducibilidad del análisis, el proyecto se organiza de la siguiente manera:
 
-* **Datos/**: Almacenamiento de información genómica.
-    * `Datos crudos/`: Contiene la secuencia original de SARS-CoV-2 y archivos `.fasta`.
+* Datos: Almacenamiento de información genómica.
+    * Datos crudos: Contiene la secuencia original de SARS-CoV-2 y archivos `.fasta`.
     * `Datos procesados/`: Archivos curados y anotaciones (ej. archivos `.gb`).
 * **codigo/**: Carpeta con los scripts de procesamiento.
     * `alignment.py`: Script en Python diseñado para detectar cambios puntuales entre secuencias.
