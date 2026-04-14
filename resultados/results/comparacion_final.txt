@@ -1,5 +1,7 @@
 PROYECTO: Adaptación SARS-CoV-2 en ratón
 ----------------------------------------
-ESTADO: Finalizado
-RESULTADO: Se detectó una mutación clave en el dominio RBD de la proteína Spike.
-FECHA DE ANÁLISIS: Abril 2026
+=== RESULTADOS DEL ANÁLISIS DE VARIANTES ===
+Se han detectado 2 mutaciones:
+• Posición 46: A -> G
+• Posición 59: C -> G
+fecha: 14/04/2026
