@@ -2,7 +2,7 @@
 Proyecto para comparar secuencias de variantes de SARS COVID2 obtenidas de pases consecutivos en un modelo de ratón para generar una variante "Mouse-adapted" que replique el ciclo infeccioso de humano y poder testear terapias/vacunas.
 
 ## Secuencias
-La sequencias obtenidas de cada pase se compararan con la secuencia parental y con la secuencia del pase anterior para obtener los cambios puntuales de cada variante. Las sequencias a analizar seran en este caso obtenidas a partir de datos de transcripcion de RNA. 
+La sequencias obtenidas de cada pase se compararan con la secuencia parental y con la secuencia del pase anterior para obtener los cambios puntuales de cada variante. Las sequencias a analizar seran en este caso obtenidas a partir de datos de transcripcion de RNA viral en muestras de homogeneizado pulmonar. 
 
 ## Estructura del Repositorio
 Para facilitar la navegación y la reproducibilidad del análisis, el proyecto se organiza de la siguiente manera:
@@ -14,6 +14,7 @@ Para facilitar la navegación y la reproducibilidad del análisis, el proyecto s
     * alignment.py: Script en Python diseñado para detectar cambios puntuales entre secuencias.
 * docs : Documentación técnica y experimental.
     * protocolo_modelo_murino.md: Descripción del procedimiento de pases seriales en el modelo animal.
+    * protocolo_SC2_MinION_sequencing.md: Descripcion de protocolo de amplificacion y secuenciacion "ARTIC SARS-CoV-2 sequencing protocol v4 (LSK114) V.4" de las muestras obtenidas en los pases.  
 * resultados : Salidas detalladas del análisis.
     * Incluye reportes de mutaciones, figuras MA (.jpg) y conclusiones finales.
 
