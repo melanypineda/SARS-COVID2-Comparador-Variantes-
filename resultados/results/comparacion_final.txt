@@ -1,0 +1,9 @@
+PROYECTO: Adaptación SARS-CoV-2 en ratón
+----------------------------------------
+RESULTADOS DEL ANÁLISIS DE VARIANTES
+resultados basados en la informacion incluida en el codigo y los datos
+
+Se han detectado 2 mutaciones:
+• Posición 46: A -> G
+• Posición 59: C -> G
+fecha: 14/04/2026
