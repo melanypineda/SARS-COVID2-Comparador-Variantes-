@@ -18,4 +18,14 @@ Para facilitar la navegación y la reproducibilidad del análisis, el proyecto s
 * resultados : Salidas detalladas del análisis.
     * Incluye reportes de mutaciones, figuras MA (.jpg) y conclusiones finales.
 
+## Instalacion
+Para usar este analizador hay que instalar la libreria Biopython
+
+## Uso del codigo
+Para realizar la comparacion de las variantes, se debe indicar tanto la ruta de la secuencia de la cepa parental como la de la secuencia del pase 
+
+## Autores
+Melany Pineda Garcia (Estudiante de Master de Bioinformatica)
+Carmen de la Nuez Ramirez (Estudiante de Master de Bioinformatica)
+
 
